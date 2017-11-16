@@ -10,6 +10,15 @@
     "type": "git",
     "url": "git+https://github.com/hypermodules/electron-audio-player.git"
   },
+  "devDependencies": {
+    "@tap-format/spec": "^0.2.0",
+    "bankai": "^9.0.0-rc11",
+    "browserify": "^14.5.0",
+    "dependency-check": "^2.9.1",
+    "npm-run-all": "^4.1.2",
+    "standard": "^10.0.3",
+    "tape-run": "^3.0.0"
+  },
   "author": "",
   "license": "MIT",
   "bugs": {
